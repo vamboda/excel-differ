@@ -71,7 +71,6 @@ async function performDiff(file1, file2) {
       let rowDiffResult = {
         index,
       };
-      const element = array[index];
     }
   }
 
