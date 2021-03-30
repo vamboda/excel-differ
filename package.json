@@ -1,0 +1,17 @@
+{
+  "name": "excel-differ",
+  "version": "1.0.0",
+  "description": "This tools is used to diff the specified excel files ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vamshi boda",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "read-excel-file": "^5.0.0",
+    "xlsx": "^0.16.9"
+  }
+}
